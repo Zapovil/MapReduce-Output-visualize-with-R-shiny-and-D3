@@ -1,0 +1,6 @@
+#  data <- read.table("data.txt")
+#  sub_data <-subset(data,V2 >100)
+# write.table(sub_data, file = "MyData.csv",row.names=FALSE, na="",col.names=FALSE, sep=",")
+data <- read.table("MyData.csv",sep = ",")
+colnames(data)<-c("Ip","Count")
+popular <- as.data.frame(data[order(data$Count,decreasing = TRUE),c(1,2)])

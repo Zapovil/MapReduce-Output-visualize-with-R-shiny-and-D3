@@ -1,0 +1,11 @@
+name: server_hits
+title: Server_hits
+account: appapp
+server: shinyapps.io
+appId: 161616
+bundleId: 736546
+url: https://appapp.shinyapps.io/server_hits/
+when: 1488868473.9131
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data.txt|global.R|max.R

@@ -1,2 +1,2 @@
 # hadoop-with-R-shiny-visualization
-output of mapReduce program is loaded into R for visualization 
+Output of mapReduce program is loaded into R shiny for visualization 
