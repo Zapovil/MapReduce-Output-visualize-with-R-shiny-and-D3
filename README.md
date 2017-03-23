@@ -1,11 +1,11 @@
 # Hadoop-with-R-shiny-and-D3-visualization
-**server_hits**
+**Program: Server_hits**
 Output of mapReduce program is loaded into R shiny for visualization 
 
 https://appapp.shinyapps.io/server_hits/
 
 # To run D3-Visualization
-**On Avearage Sales and Number of Monthly Visitors on the Site**
+**On Program:Avearage Sales and Program:Number of Monthly Visitors on the Site**
 Internet connection is needed to download dimple.js and d3.js. One can store dimple.js and d3.js on local Disk for offline loading of pages.
 
 Open terminal in Linux or cmd on windows and run<br/>
