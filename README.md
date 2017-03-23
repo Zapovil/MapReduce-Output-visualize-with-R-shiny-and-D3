@@ -9,7 +9,7 @@ https://appapp.shinyapps.io/server_hits/
 Internet connection is needed to download dimple.js and d3.js. One can store dimple.js and d3.js on local Disk for offline loading of pages.
 
 Open terminal in Linux or cmd on windows and run<br/>
-1.python -m SimpleHTTPServer &<br/>
-2.open localhost:port<br/>
-3:browse to the location<br/>
+1. python -m SimpleHTTPServer &<br/>
+2. Open localhost:port<br/>
+3: Browse the location of the html file<br/>
 
